@@ -1,2 +1,3 @@
-# My_project
-First python assignment
+Web technologies assignment
+First html assignment
+
